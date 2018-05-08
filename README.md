@@ -17,3 +17,7 @@ bottomleft: Segmented
 bottomright: Smoothed Histogram* + Valley, Original Histogram*
 
 \* = Histogram of gray pixel values (0 to 255)
+
+
+### Disclaimer
+ - Matrix class by Github user "akalicki"
