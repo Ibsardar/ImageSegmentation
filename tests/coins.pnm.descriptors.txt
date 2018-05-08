@@ -1,0 +1,196 @@
+Given:
+Smoothed Histogram Threshold: 126
+
+--- BEGIN COMPONENT DESCRIPTION LIST ----------------
+
+~~~ Component #0:
+Intensity: 0
+Area: 51456
+Centroid: 152.178,127.127
+Central Moment: 4.34806e+008,-4.57199e+006,3.00868e+008
+Scale Invariant Central Moment: 0.164219,-0.00172676,0.113633
+Perimeter: 3874
+Compactness: 23.2099
+Elongation: 0.392841
+
+~~~ Component #1:
+Intensity: 62
+Area: 2512
+Centroid: 147.566,33.459
+Central Moment: 527389,-8656.15,478366
+Scale Invariant Central Moment: 0.0835779,-0.00137178,0.075809
+Perimeter: 226
+Compactness: 1.61803
+Elongation: 0.221702
+
+~~~ Component #2:
+Intensity: 73
+Area: 1856
+Centroid: 55.1245,48.8605
+Central Moment: 289484,-3940.76,259667
+Scale Invariant Central Moment: 0.0840367,-0.001144,0.0753808
+Perimeter: 194
+Compactness: 1.61367
+Elongation: 0.230598
+
+~~~ Component #3:
+Intensity: 85
+Area: 2547
+Centroid: 215.929,69.7911
+Central Moment: 541731,-11274,492373
+Scale Invariant Central Moment: 0.0835076,-0.00173788,0.075899
+Perimeter: 230
+Compactness: 1.65279
+Elongation: 0.22329
+
+~~~ Component #4:
+Intensity: 96
+Area: 999
+Centroid: 111.278,83.5155
+Central Moment: 144821,1900.69,104822
+Scale Invariant Central Moment: 0.145111,0.00190449,0.105031
+Perimeter: 690
+Compactness: 37.9248
+Elongation: 0.372337
+
+~~~ Component #5:
+Intensity: 107
+Area: 1
+Centroid: 122,70
+Central Moment: 0,0,0
+Scale Invariant Central Moment: 0,0,0
+Perimeter: 4
+Compactness: 1.27324
+Elongation: 0
+
+~~~ Component #6:
+Intensity: 119
+Area: 2649
+Centroid: 36.145,105.728
+Central Moment: 592646,-18603.5,528081
+Scale Invariant Central Moment: 0.0844562,-0.00265113,0.0752552
+Perimeter: 238
+Compactness: 1.70162
+Elongation: 0.249692
+
+~~~ Component #7:
+Intensity: 130
+Area: 1864
+Centroid: 264.797,101.609
+Central Moment: 290812,-3241.02,262980
+Scale Invariant Central Moment: 0.083699,-0.000932803,0.0756886
+Perimeter: 196
+Compactness: 1.64005
+Elongation: 0.221519
+
+~~~ Component #8:
+Intensity: 142
+Area: 2
+Centroid: 90.5,83
+Central Moment: 0.5,0,0
+Scale Invariant Central Moment: 0.125,0,0
+Perimeter: 6
+Compactness: 1.43239
+Elongation: 0.707107
+
+~~~ Component #9:
+Intensity: 153
+Area: 2
+Centroid: 89.5,86
+Central Moment: 0.5,0,0
+Scale Invariant Central Moment: 0.125,0,0
+Perimeter: 6
+Compactness: 1.43239
+Elongation: 0.707107
+
+~~~ Component #10:
+Intensity: 164
+Area: 2591
+Centroid: 173.827,118.959
+Central Moment: 559052,-4605.46,513311
+Scale Invariant Central Moment: 0.0832755,-0.000686022,0.076462
+Perimeter: 248
+Compactness: 1.88897
+Elongation: 0.204198
+
+~~~ Component #11:
+Intensity: 176
+Area: 1
+Centroid: 90,92
+Central Moment: 0,0,0
+Scale Invariant Central Moment: 0,0,0
+Perimeter: 4
+Compactness: 1.27324
+Elongation: 0
+
+~~~ Component #12:
+Intensity: 187
+Area: 1
+Centroid: 94,94
+Central Moment: 0,0,0
+Scale Invariant Central Moment: 0,0,0
+Perimeter: 4
+Compactness: 1.27324
+Elongation: 0
+
+~~~ Component #13:
+Intensity: 199
+Area: 1
+Centroid: 118,95
+Central Moment: 0,0,0
+Scale Invariant Central Moment: 0,0,0
+Perimeter: 4
+Compactness: 1.27324
+Elongation: 0
+
+~~~ Component #14:
+Intensity: 210
+Area: 6
+Centroid: 97,99.1667
+Central Moment: 4,-2,2.83333
+Scale Invariant Central Moment: 0.111111,-0.0555556,0.0787037
+Perimeter: 12
+Compactness: 1.90986
+Elongation: 0.615457
+
+~~~ Component #15:
+Intensity: 221
+Area: 2
+Centroid: 113.5,100
+Central Moment: 0.5,0,0
+Scale Invariant Central Moment: 0.125,0,0
+Perimeter: 6
+Compactness: 1.43239
+Elongation: 0.707107
+
+~~~ Component #16:
+Intensity: 233
+Area: 2668
+Centroid: 95.229,145.016
+Central Moment: 595095,-10084.1,541149
+Scale Invariant Central Moment: 0.0836016,-0.00141666,0.0760231
+Perimeter: 270
+Compactness: 2.17436
+Elongation: 0.21964
+
+~~~ Component #17:
+Intensity: 244
+Area: 1894
+Centroid: 235.055,172.363
+Central Moment: 300614,41.2767,271154
+Scale Invariant Central Moment: 0.0838011,1.15065e-005,0.0755885
+Perimeter: 198
+Compactness: 1.64718
+Elongation: 0.221361
+
+~~~ Component #18:
+Intensity: 255
+Area: 2748
+Centroid: 119.323,207.643
+Central Moment: 622155,-15137,581885
+Scale Invariant Central Moment: 0.0823882,-0.0020045,0.0770555
+Perimeter: 246
+Compactness: 1.75244
+Elongation: 0.200406
+
+--- END COMPONENT DESCRIPTION LIST ----------------

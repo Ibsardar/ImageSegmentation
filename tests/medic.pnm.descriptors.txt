@@ -1,0 +1,26 @@
+Given:
+Smoothed Histogram Threshold: 119
+
+--- BEGIN COMPONENT DESCRIPTION LIST ----------------
+
+~~~ Component #0:
+Intensity: 0
+Area: 88
+Centroid: 4.5,4.5
+Central Moment: 792,11,792
+Scale Invariant Central Moment: 0.102273,0.00142045,0.102273
+Perimeter: 56
+Compactness: 216745
+Elongation: 0.117041
+
+~~~ Component #1:
+Intensity: 255
+Area: 12
+Centroid: 4.5,4.5
+Central Moment: 8,0,8
+Scale Invariant Central Moment: 0.0555556,0,0.0555556
+Perimeter: 16
+Compactness: 2412.74
+Elongation: 0
+
+--- END COMPONENT DESCRIPTION LIST ----------------
