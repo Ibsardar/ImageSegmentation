@@ -1,6 +1,6 @@
 # ImageSegmentation
 
-Segments an image and outputs descriptor information in a text file.
+Segments an image and outputs descriptor information for each component in a text file.
 
 ---
 
